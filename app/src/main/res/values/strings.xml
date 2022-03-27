@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Exercise1PAM_ToDoApp</string>
+    <string name="blogin">Login</string>
+    <string name="label2">Login Berhasil</string>
+    <string name="ldaftar">Daftar</string>
+    <string name="enama">Masukkan Nama</string>
+    <string name="eemail">Masukkan Email</string>
+    <string name="epass">Masukkan Password</string>
+    <string name="erepass">Masukkan Password Kembali</string>
+    <string name="addtask">Masukkan Task</string>
+    <string name="addtype">Masukkan Jenis Task</string>
+    <string name="addtime">Masukkan Lama Task</string>
+</resources>
